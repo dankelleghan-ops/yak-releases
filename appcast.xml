@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Yak</title>
+        <item>
+            <title>1.4</title>
+            <pubDate>Sun, 26 Jul 2026 10:38:48 -0600</pubDate>
+            <link>https://github.com/dankelleghan-ops/yak-releases</link>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/dankelleghan-ops/yak-releases/main/Yak-1.4.html</sparkle:releaseNotesLink>
+            <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/yak-releases/main/downloads/Yak-1.4.dmg" length="6793355" type="application/octet-stream" sparkle:edSignature="iGZ5ZONiCvu6RyoW5oDL565mrIv6a9911bTsZy88WpTlKOl24Z+2jUf3fo8m1NryZUgu1+aY40oVBo/dgHBpAA=="/>
+        </item>
+    </channel>
+</rss>
