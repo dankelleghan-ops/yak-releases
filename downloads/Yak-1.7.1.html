@@ -1,0 +1,9 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><style>
+body { font: 14px -apple-system, BlinkMacSystemFont, sans-serif; margin: 12px; color: #222; }
+@media (prefers-color-scheme: dark) { body { background: #1e1e1e; color: #eee; } }
+h2 { font-size: 15px; margin: 0 0 8px; }
+</style></head><body>
+<h2>Yak 1.7.1</h2>
+<p>Fixes a bug where the fn key could stop responding entirely until you quit and reopened Yak. It happened when your audio devices changed (headphones, a USB mic, an iPhone microphone appearing) while Yak was idle — Yak kept a stale idea of your microphone and every press after that silently did nothing. Yak now notices the change and rebuilds itself, and repairs the problem automatically if it ever recurs. Also: when Yak doesn't catch any speech it now says so instead of quietly giving up, and the status pill no longer cuts off its longer messages.</p>
+</body></html>
