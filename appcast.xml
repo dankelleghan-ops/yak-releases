@@ -3,6 +3,24 @@
     <channel>
         <title>Yak</title>
         <item>
+            <title>1.14.2</title>
+            <pubDate>Fri, 04 Sep 2026 10:32:38 -0500</pubDate>
+            <link>https://github.com/dankelleghan-ops/yak-releases</link>
+            <sparkle:version>40</sparkle:version>
+            <sparkle:shortVersionString>1.14.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/dankelleghan-ops/yak-releases/main/downloads/Yak-1.14.2.html</sparkle:releaseNotesLink>
+            <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/yak-releases/main/downloads/Yak-1.14.2.dmg" length="15370876" type="application/octet-stream" sparkle:edSignature="qcs+x2IlnVdmCC6nW16JgFgs2SZ+VtSDDMFfjwS4C4uwChlSXRB++lLUgi5ahCbvn1si/JMlNlSP30j6DBVkDw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/yak-releases/main/downloads/Yak40-39.delta" sparkle:deltaFrom="39" length="504250" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="VnllintK/iNBX+L/ASegYSBPXMoDgK1wjFtGmARR2Z142oPxC0OD3iC0Q4ccoq0RHLPF9TQruiEpkV8Lr42DCQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/yak-releases/main/downloads/Yak40-38.delta" sparkle:deltaFrom="38" length="507102" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="dW4zrEsU37wzGr69swn5c37KUa0tbSVqNcL6YOGlAuvThiiQI0GSg/hFWv7R2neVGhO1LcfHjiKVF8AWtzqvDA=="/>
+                <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/yak-releases/main/downloads/Yak40-37.delta" sparkle:deltaFrom="37" length="9758290" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ZKoYoeLi070jB6LmZSUyVByXtFDToEmz7cTZ6eCdmKdESvzIXX32rIch9szEoTfelQmFBlbFt5kEw/4brpsbDA=="/>
+                <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/yak-releases/main/downloads/Yak40-36.delta" sparkle:deltaFrom="36" length="9763562" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="hcDi3FdGtuKJCEVpL5n6qKTHDOQz9NnTzXtafCyHopMwRg0MXOiz0dOTFkdVncHEy7vXjBApPfjt2UiEdwRpBg=="/>
+                <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/yak-releases/main/downloads/Yak40-35.delta" sparkle:deltaFrom="35" length="9775790" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="TTSlkjUP7sFWdBSrv88UsyjoSXyQ0gGV0WyDaFI7LC+e09imJqjCejeK+xtjUk2sza3EWQvyMOl4jjuQVDZsAg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.14.1</title>
             <pubDate>Wed, 02 Sep 2026 14:43:23 -0500</pubDate>
             <link>https://github.com/dankelleghan-ops/yak-releases</link>
