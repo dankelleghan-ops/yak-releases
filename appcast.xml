@@ -11,7 +11,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <sparkle:releaseNotesLink>https://raw.githubusercontent.com/dankelleghan-ops/yak-releases/main/downloads/Yak-1.14.2.html</sparkle:releaseNotesLink>
-            <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/yak-releases/main/downloads/Yak-1.14.2.dmg" length="15370876" type="application/octet-stream" sparkle:edSignature="qcs+x2IlnVdmCC6nW16JgFgs2SZ+VtSDDMFfjwS4C4uwChlSXRB++lLUgi5ahCbvn1si/JMlNlSP30j6DBVkDw=="/>
+            <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/yak-releases/main/downloads/Yak-1.14.2.dmg" length="15388743" type="application/octet-stream" sparkle:edSignature="JEgKrL4ejoylmiJwBaGi2q82f1cE34kdO6GV25icaIPFA6Bpp3iuvmlk8HcG/aQpm4Zz6b05RtXfIMHRTKMbDw=="/>
             <sparkle:deltas>
                 <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/yak-releases/main/downloads/Yak40-39.delta" sparkle:deltaFrom="39" length="504250" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="VnllintK/iNBX+L/ASegYSBPXMoDgK1wjFtGmARR2Z142oPxC0OD3iC0Q4ccoq0RHLPF9TQruiEpkV8Lr42DCQ=="/>
                 <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/yak-releases/main/downloads/Yak40-38.delta" sparkle:deltaFrom="38" length="507102" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="dW4zrEsU37wzGr69swn5c37KUa0tbSVqNcL6YOGlAuvThiiQI0GSg/hFWv7R2neVGhO1LcfHjiKVF8AWtzqvDA=="/>
