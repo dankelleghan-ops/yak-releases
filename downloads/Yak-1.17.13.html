@@ -1,9 +1,22 @@
 <!doctype html>
 <html><head><meta charset="utf-8"><style>
 body { font: 14px -apple-system, BlinkMacSystemFont, sans-serif; margin: 12px; color: #222; }
-@media (prefers-color-scheme: dark) { body { background: #1e1e1e; color: #eee; } }
+@media (prefers-color-scheme: dark) { body { background: #1e1e1e; color: #eee; } td, th { border-color: #444 !important; } }
 h2 { font-size: 15px; margin: 0 0 8px; }
+table { border-collapse: collapse; margin: 10px 0; }
+th, td { text-align: left; padding: 5px 12px 5px 0; border-bottom: 1px solid #ddd; vertical-align: top; }
+th { font-weight: 600; }
+.note { font-size: 12px; opacity: 0.7; }
 </style></head><body>
-<h2>Yak 1.17.13</h2>
-<p>Dictation comes back faster after you let go of fn, with the same words as before. The cleanup model is kept warm while you talk, so longer dictations are cleaned about half a second sooner. Transcription now runs on whichever chip your Mac is fastest with, which trims every dictation by about a third, and its one-time setup happens when Yak launches instead of on your first dictation of the day. Paragraphs within one dictation are cleaned one after another, which is also quicker. Recordings longer than 60 seconds are split at pauses, which fixes a block of speech going missing past about 90 seconds.</p>
+<h2>Yak 1.17.13: faster after you let go of fn</h2>
+<p>Your text comes back sooner after you let go of fn, and the words are the same as before.</p>
+<table>
+<tr><th></th><th>before</th><th>after</th></tr>
+<tr><td>Cleanup, dictations over 3 seconds (median)</td><td></td><td>0.46 s faster</td></tr>
+<tr><td>Transcription, every dictation (median)</td><td>0.4 s</td><td>0.2 to 0.3 s</td></tr>
+<tr><td>Total transcription time, 20 test dictations</td><td>10.9 s</td><td>7.3 s</td></tr>
+<tr><td>Typical 20-second dictation, cleanup plus transcription</td><td>about 2.8 s</td><td>about 2.1 s</td></tr>
+</table>
+<p>What changed: the cleanup model stays warm while you talk. Transcription runs on whichever chip your Mac is fastest with. Its one-time setup now happens when Yak opens, so your first dictation of the day is quick too. Recordings longer than 60 seconds are split at pauses, which fixes a block of speech going missing past about 90 seconds.</p>
+<p class="note">Measured on one Apple Silicon Mac with 20 real dictations. Your Mac's numbers may differ a little.</p>
 </body></html>
