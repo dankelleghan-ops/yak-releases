@@ -10,7 +10,10 @@
             <sparkle:shortVersionString>1.17.22</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/dankelleghan-ops/yak-releases/main/downloads/Yak-1.17.22.html</sparkle:releaseNotesLink>
+            <description><![CDATA[
+<h2>Yak 1.17.22</h2>
+<p>Only one Yak runs at a time now: a newer Yak closes an older copy by itself. Fewer settings: chat tidying and quick pasting of short phrases are always on. When Gemma does the cleanup, self-corrections stay on your Mac, and the fn press does less work.</p>
+]]></description>
             <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/yak-releases/main/downloads/Yak-1.17.22.dmg" length="23984287" type="application/octet-stream" sparkle:edSignature="hhWXcvPDn8+yi72MxD6kzbcXovzYnalxlDkz7TZEPkudrDh4sanESODlYMEEduRKmxTz+hn4OOHWrehLuewkBA=="/>
             <sparkle:deltas>
                 <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/yak-releases/main/downloads/Yak92-89.delta" sparkle:deltaFrom="89" length="657806" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="yMYObLmqeN8Y14nt+U2t6fI0SwCSHDoJJs/PDHMHacuwJ+1zH6LlcYXp6tlHcUF1srsVW90hbxKzt4Q+vw7QDA=="/>
@@ -28,7 +31,10 @@
             <sparkle:shortVersionString>1.17.19</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/dankelleghan-ops/yak-releases/main/downloads/Yak-1.17.19.html</sparkle:releaseNotesLink>
+            <description><![CDATA[
+<h2>Yak 1.17.19</h2>
+<p>Cleanup now runs on your Mac with Gemma, a local AI model. No Claude key needed and nothing leaves your computer. Get it in Settings, Cleanup (6.9 GB download, needs 16 GB of memory).</p>
+]]></description>
             <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/yak-releases/main/downloads/Yak-1.17.19.dmg" length="23974262" type="application/octet-stream" sparkle:edSignature="wsRGW/zIA0UI34twuPWGUq88zcZL63XzWeR7KbCPSmgBYtn9rT2FllR0LR/jP3fh4I1M6qsgFGlWSHNkzzMrCA=="/>
             <sparkle:deltas>
                 <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/yak-releases/main/downloads/Yak89-88.delta" sparkle:deltaFrom="88" length="6095682" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Ftoine+ggFpJLgAdwZsbbwk2+6pu5M4gj1ADTrJJWazD/fZ2a9bbQdNMhDIXG787k1JoERHe3mijjcZ0lYJ5AQ=="/>
@@ -46,7 +52,10 @@
             <sparkle:shortVersionString>1.17.18</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/dankelleghan-ops/yak-releases/main/downloads/Yak-1.17.18.html</sparkle:releaseNotesLink>
+            <description><![CDATA[
+<h2>Yak 1.17.18</h2>
+<p>Fewer wrong words: names on your word list stay as you said them, a silent fn press no longer types you, trailing off no longer adds a period, and informal words like anywho stay. Faster on-device cleanup if you run the Bionic app (Use Local Models in the menu). Improved transcribe-while-you-talk option in Settings, off by default.</p>
+]]></description>
             <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/yak-releases/main/downloads/Yak-1.17.18.dmg" length="15666445" type="application/octet-stream" sparkle:edSignature="DIFnKa6laWNtPyk6/l8ifHl+zXup0fm6RjMdKwyDLpKK0pqcA/lpgoari0aNJEaYaU8KNDOWiodIPhoUDLOmBg=="/>
             <sparkle:deltas>
                 <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/yak-releases/main/downloads/Yak88-83.delta" sparkle:deltaFrom="83" length="931182" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="dsHOfPwMReGjL1PdX6zIYPsxGZ2xCwsCgwchqSDHuf5M0pQZ3mSyvDuOXNIcpT9ggNEHDEELgFyk5sE9MEo5BA=="/>
@@ -63,7 +72,10 @@
             <sparkle:version>37</sparkle:version>
             <sparkle:shortVersionString>1.13.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/dankelleghan-ops/yak-releases/main/downloads/Yak-1.13.0.html</sparkle:releaseNotesLink>
+            <description><![CDATA[
+<h2>Yak 1.13.0</h2>
+<p>1.13.0: "lol" and "haha" stay lowercase with no punctuation before them (new switch in Settings → Cleanup); includes the 1.12.3 AirPods freeze fix and the 1.12.4 archive fix</p>
+]]></description>
             <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/yak-releases/main/downloads/Yak-1.13.0.dmg" length="7475326" type="application/octet-stream" sparkle:edSignature="/autxZgAkbBPJ5VgH1SGXHlalKTbJ8G+jEfm55F3guVebtAQR6DNOLNtR7Nxg3qdjGaLoIaip+BagoQRod99DQ=="/>
             <sparkle:deltas>
                 <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/yak-releases/main/downloads/Yak37-36.delta" sparkle:deltaFrom="36" length="545630" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3H3fCEprWlBvlNoWnLCsDNys72XDH2iZ6FdS7UTCsyd0vZkk1y7aLlZ0UGRy9fmvztuZ6SR7G6TRDt61h/auDQ=="/>
@@ -80,7 +92,10 @@
             <sparkle:version>36</sparkle:version>
             <sparkle:shortVersionString>1.12.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/dankelleghan-ops/yak-releases/main/downloads/Yak-1.12.4.html</sparkle:releaseNotesLink>
+            <description><![CDATA[
+<h2>Yak 1.12.4</h2>
+<p>1.12.4: recording archive works after a relaunch again (folder permission); includes the 1.12.3 AirPods freeze fix</p>
+]]></description>
             <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/yak-releases/main/downloads/Yak-1.12.4.dmg" length="7446059" type="application/octet-stream" sparkle:edSignature="yYasc+kY1Q4NxdGFmtp7M4D9ozsmWXG67j4WtoEKJsVG3VA2YraJ8ahfte/ja7ZGPoZ8cpDeu5HaCiGoYRS6CA=="/>
             <sparkle:deltas>
                 <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/yak-releases/main/downloads/Yak36-35.delta" sparkle:deltaFrom="35" length="249470" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="DCWrX8niUDiBSAXsbHdrxCcjZfik/hBPEvE1Bv7eE/9o3SuoQbR6qo0cya6/fsjZ8otrwrDcuVXeoA0c9YpdAg=="/>
@@ -97,7 +112,10 @@
             <sparkle:version>35</sparkle:version>
             <sparkle:shortVersionString>1.12.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/dankelleghan-ops/yak-releases/main/downloads/Yak-1.12.3.html</sparkle:releaseNotesLink>
+            <description><![CDATA[
+<h2>Yak 1.12.3</h2>
+<p>1.12.3: the AirPods profile flip can no longer freeze Yak (main-thread deadlock on device change fixed)</p>
+]]></description>
             <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/yak-releases/main/downloads/Yak-1.12.3.dmg" length="7445914" type="application/octet-stream" sparkle:edSignature="OTMjFf5K92w2y+OiXtf7NBMKt+3PXca/SIxKYAd2CZ6ZLcE4Oy/Ec3oLn81iqzfw9DcwXU3aVQ2VBpWw6cQTDg=="/>
             <sparkle:deltas>
                 <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/yak-releases/main/downloads/Yak35-34.delta" sparkle:deltaFrom="34" length="456474" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="70A/m/bWBTZbgornmLRWMJ/LWa/ZU+qsq/ThxSTHT8LJPrSySLzL0jhHWbzo7/OakFOKhPF+0CM1fmoQjiZfBQ=="/>
