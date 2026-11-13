@@ -3,6 +3,26 @@
     <channel>
         <title>Yak</title>
         <item>
+            <title>1.17.30</title>
+            <pubDate>Fri, 13 Nov 2026 10:53:57 -0600</pubDate>
+            <link>https://github.com/dankelleghan-ops/yak-releases</link>
+            <sparkle:version>100</sparkle:version>
+            <sparkle:shortVersionString>1.17.30</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Yak 1.17.30</h2>
+<p>Long dictations no longer randomly lose sentences. Corrections like "one month, or actually no, two months" now keep only the fix. Numbers read one digit at a time join into one number. A "Getting Yak ready" pill shows while Yak starts up after an update. The start tick plays sooner on wired and built-in mics. No period after lol, and no ending punctuation when dictating into Finder.</p>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/yak-releases/main/downloads/Yak-1.17.30.dmg" length="23990118" type="application/octet-stream" sparkle:edSignature="daicFBx3QTYTauaB2Y1ARrfCVxmAC0v+HUV/uMHHVER9W0NXCK1ZYk6Gf+kv7HqZ9fZA8ZSDQ3OCR8yXJ+ZlAA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/yak-releases/main/downloads/Yak100-92.delta" sparkle:deltaFrom="92" length="723634" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="BL9y/hCLWxov4lI09/NTf2lpH76I9xd2PNNF2ExVpkFSVS+dQfUgebnMABdanw4Dj3sgZBqbL2cpEELnVSW7Cg=="/>
+                <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/yak-releases/main/downloads/Yak100-89.delta" sparkle:deltaFrom="89" length="776838" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="PZvx35VPUS110JalyM+wEO6vsbbaOz9MQkLFzE5FXexV0NRHEm5vN0gJiTxCUSfAOTGyrSs/CMpoJ5YtN96ADg=="/>
+                <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/yak-releases/main/downloads/Yak100-88.delta" sparkle:deltaFrom="88" length="6135090" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="isZaLy88qL+AM5lpp4BOtH7iwhG+NKq896G1qrIhryBN+Ye+5m6BFeCI8SJH3GP+w3AcHgfCNDClsUvQqhChAw=="/>
+                <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/yak-releases/main/downloads/Yak100-83.delta" sparkle:deltaFrom="83" length="6235650" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Wv0U06u+a8cbnCv292Uer2l9EZsyXNZW6Wr2CRt8BqjErfHCoIvjhiuqPq2jJHfdWruzZbh/l/BoNIi3aWc4BQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/yak-releases/main/downloads/Yak100-81.delta" sparkle:deltaFrom="81" length="6252798" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="LLtlv5OrVPyIieFHi1b7+Cb1shU5stJgVSW0oWU6joY7o/nJ8eKkEWGM657+XBtyC8uwdyfSHQNcjfMJuSxkDw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.17.22</title>
             <pubDate>Fri, 06 Nov 2026 14:55:15 -0600</pubDate>
             <link>https://github.com/dankelleghan-ops/yak-releases</link>
@@ -10,8 +30,7 @@
             <sparkle:shortVersionString>1.17.22</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[
-<h2>Yak 1.17.22</h2>
+            <description><![CDATA[<h2>Yak 1.17.22</h2>
 <p>Only one Yak runs at a time now: a newer Yak closes an older copy by itself. Fewer settings: chat tidying and quick pasting of short phrases are always on. When Gemma does the cleanup, self-corrections stay on your Mac, and the fn press does less work.</p>
 ]]></description>
             <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/yak-releases/main/downloads/Yak-1.17.22.dmg" length="23984287" type="application/octet-stream" sparkle:edSignature="hhWXcvPDn8+yi72MxD6kzbcXovzYnalxlDkz7TZEPkudrDh4sanESODlYMEEduRKmxTz+hn4OOHWrehLuewkBA=="/>
@@ -31,8 +50,7 @@
             <sparkle:shortVersionString>1.17.19</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[
-<h2>Yak 1.17.19</h2>
+            <description><![CDATA[<h2>Yak 1.17.19</h2>
 <p>Cleanup now runs on your Mac with Gemma, a local AI model. No Claude key needed and nothing leaves your computer. Get it in Settings, Cleanup (6.9 GB download, needs 16 GB of memory).</p>
 ]]></description>
             <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/yak-releases/main/downloads/Yak-1.17.19.dmg" length="23974262" type="application/octet-stream" sparkle:edSignature="wsRGW/zIA0UI34twuPWGUq88zcZL63XzWeR7KbCPSmgBYtn9rT2FllR0LR/jP3fh4I1M6qsgFGlWSHNkzzMrCA=="/>
@@ -45,35 +63,13 @@
             </sparkle:deltas>
         </item>
         <item>
-            <title>1.17.18</title>
-            <pubDate>Thu, 05 Nov 2026 19:09:58 -0600</pubDate>
-            <link>https://github.com/dankelleghan-ops/yak-releases</link>
-            <sparkle:version>88</sparkle:version>
-            <sparkle:shortVersionString>1.17.18</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[
-<h2>Yak 1.17.18</h2>
-<p>Fewer wrong words: names on your word list stay as you said them, a silent fn press no longer types you, trailing off no longer adds a period, and informal words like anywho stay. Faster on-device cleanup if you run the Bionic app (Use Local Models in the menu). Improved transcribe-while-you-talk option in Settings, off by default.</p>
-]]></description>
-            <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/yak-releases/main/downloads/Yak-1.17.18.dmg" length="15666445" type="application/octet-stream" sparkle:edSignature="DIFnKa6laWNtPyk6/l8ifHl+zXup0fm6RjMdKwyDLpKK0pqcA/lpgoari0aNJEaYaU8KNDOWiodIPhoUDLOmBg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/yak-releases/main/downloads/Yak88-83.delta" sparkle:deltaFrom="83" length="931182" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="dsHOfPwMReGjL1PdX6zIYPsxGZ2xCwsCgwchqSDHuf5M0pQZ3mSyvDuOXNIcpT9ggNEHDEELgFyk5sE9MEo5BA=="/>
-                <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/yak-releases/main/downloads/Yak88-81.delta" sparkle:deltaFrom="81" length="936782" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6ssfR7paJgHzsx913Iur2eUhLO/XI0EAVAZo5ChJjZKQR2TIxVLZ9AFqdDc8KJQLgVYbt2+3IpnVjvIcsLCOCw=="/>
-                <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/yak-releases/main/downloads/Yak88-73.delta" sparkle:deltaFrom="73" length="1011634" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="DZSgZKAO79rIChICxLT4Xy3lv3PY+hutG+jwhK7+7S08cycHFTWmV/N33/erpPXy2YijwXqrZNqt1QT4qkIgBQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/yak-releases/main/downloads/Yak88-66.delta" sparkle:deltaFrom="66" length="1217362" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="CEGAAsIJ0l/frnPhyismMeDjZqBj34NwYKivK05MLsw6CKhUcJA6Osw/ZrAnbDPB4LxHe+O+En88Id91K++xDw=="/>
-                <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/yak-releases/main/downloads/Yak88-65.delta" sparkle:deltaFrom="65" length="1222210" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7Dvrrx0PrvCqtyZHv6sc+HPwNZZ+srzENCS2LqgWUt/4+IwJKSSjFQRhA+B3JBlFGhf8WViT50M0Yas1SFdKBw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
             <title>1.13.0</title>
             <pubDate>Tue, 01 Sep 2026 19:06:06 -0500</pubDate>
             <link>https://github.com/dankelleghan-ops/yak-releases</link>
             <sparkle:version>37</sparkle:version>
             <sparkle:shortVersionString>1.13.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-<h2>Yak 1.13.0</h2>
+            <description><![CDATA[<h2>Yak 1.13.0</h2>
 <p>1.13.0: "lol" and "haha" stay lowercase with no punctuation before them (new switch in Settings → Cleanup); includes the 1.12.3 AirPods freeze fix and the 1.12.4 archive fix</p>
 ]]></description>
             <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/yak-releases/main/downloads/Yak-1.13.0.dmg" length="7475326" type="application/octet-stream" sparkle:edSignature="/autxZgAkbBPJ5VgH1SGXHlalKTbJ8G+jEfm55F3guVebtAQR6DNOLNtR7Nxg3qdjGaLoIaip+BagoQRod99DQ=="/>
@@ -92,8 +88,7 @@
             <sparkle:version>36</sparkle:version>
             <sparkle:shortVersionString>1.12.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-<h2>Yak 1.12.4</h2>
+            <description><![CDATA[<h2>Yak 1.12.4</h2>
 <p>1.12.4: recording archive works after a relaunch again (folder permission); includes the 1.12.3 AirPods freeze fix</p>
 ]]></description>
             <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/yak-releases/main/downloads/Yak-1.12.4.dmg" length="7446059" type="application/octet-stream" sparkle:edSignature="yYasc+kY1Q4NxdGFmtp7M4D9ozsmWXG67j4WtoEKJsVG3VA2YraJ8ahfte/ja7ZGPoZ8cpDeu5HaCiGoYRS6CA=="/>
@@ -112,8 +107,7 @@
             <sparkle:version>35</sparkle:version>
             <sparkle:shortVersionString>1.12.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-<h2>Yak 1.12.3</h2>
+            <description><![CDATA[<h2>Yak 1.12.3</h2>
 <p>1.12.3: the AirPods profile flip can no longer freeze Yak (main-thread deadlock on device change fixed)</p>
 ]]></description>
             <enclosure url="https://raw.githubusercontent.com/dankelleghan-ops/yak-releases/main/downloads/Yak-1.12.3.dmg" length="7445914" type="application/octet-stream" sparkle:edSignature="OTMjFf5K92w2y+OiXtf7NBMKt+3PXca/SIxKYAd2CZ6ZLcE4Oy/Ec3oLn81iqzfw9DcwXU3aVQ2VBpWw6cQTDg=="/>
